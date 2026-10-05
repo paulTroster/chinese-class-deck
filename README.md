@@ -2,7 +2,7 @@
 
 Anki deck with the vocabulary from our Chinese intensive course (*Developing Chinese: Elementary Comprehensive Course 1*), updated after class.
 
-**Download (always the latest version):**
+**Download (the latest version):**
 https://github.com/paulTroster/chinese-class-deck/releases/latest/download/1-Class.apkg
 
 ## How to use
